@@ -251,7 +251,9 @@ body {
 .imageRectangle {
     left: 50%;
     top: 0%;
-    background-image: url('rectangle.jpg');
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Triangle.Right.svg/1200px-Triangle.Right.svg.png');
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
     border: 1px dashed black;
 }
 
